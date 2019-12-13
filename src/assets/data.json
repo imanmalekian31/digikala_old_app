@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "digitalTools": [
+        {
+          "id": 1,
+          "type": "digitalTools",
+          "description": "گوشی موبایل سامسونگ مدل Galaxy A50 SM-A505F/DS دو سیم کارت ظرفیت 128گیگابایت",
+          "EN_description": "Samsung Galaxy A50 SM-A505F/DS Dual SIM 128GB Mobile Phone",
+          "cost": 3789000,
+          "discount": 0,
+          "express": false,
+          "color": [
+            "blue",
+            "white",
+            "black"
+          ],
+          "image": [
+            "https://dkstatics-public.digikala.com/digikala-products/111460776.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+            "https://dkstatics-public.digikala.com/digikala-products/111460798.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60",
+            "https://dkstatics-public-2.digikala.com/digikala-products/111460791.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60",
+            "https://dkstatics-public.digikala.com/digikala-products/111460792.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60",
+            "https://dkstatics-public.digikala.com/digikala-products/111460796.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60",
+            "https://dkstatics-public.digikala.com/digikala-products/111460800.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+          ]
+        },
+        {
+          "id": 2,
+          "type": "digitalTools",
+          "description": "گوشی موبایل اپل مدل iPhone 8 Plus ظرفیت 256 گیگابایت",
+          "EN_description": "Apple iPhone 8 Plus 256GB Mobile Phone",
+          "cost": 14800000,
+          "discount": 8,
+          "express": false,
+          "color": [
+            "gold"
+          ],
+          "image": [
+            "https://dkstatics-public.digikala.com/digikala-products/3076459.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60",
+            "https://dkstatics-public.digikala.com/digikala-products/3076465.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60",
+            "https://dkstatics-public.digikala.com/digikala-products/3076467.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60",
+            "https://dkstatics-public.digikala.com/digikala-products/3076467.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+          ]
+        },
+        {
+          "id": 3,
+          "type": "digitalTools",
+          "description": "گوشی موبایل هوآوی مدل Y6 Prime 2019 MRD-LX1F دو سیم کارت ظرفیت 32 گیگابایت",
+          "EN_description": "Huawei Y6 Prime 2019 MRD-LX1F Dual SIM 32GB Mobile Phone",
+          "cost": 2085000,
+          "discount": 0,
+          "express": false,
+          "color": [
+            "gray"
+          ],
+          "image": [
+            "https://dkstatics-public.digikala.com/digikala-products/111592296.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60",
+            "https://dkstatics-public.digikala.com/digikala-products/111592037.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60",
+            "https://dkstatics-public.digikala.com/digikala-products/111592042.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60",
+            "https://dkstatics-public.digikala.com/digikala-products/111619089.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+          ]
+        },
+        {
+          "id": 4,
+          "type": "digitalTools",
+          "description": "گوشی موبایل اپل مدل iPhone X ظرفیت 256 گیگابایت",
+          "EN_description": "Apple iPhone X 256GB Mobile Phone",
+          "cost": 17300000,
+          "discount": 11,
+          "express": false,
+          "color": [
+            "gray",
+            "silver"
+          ],
+          "image": [
+            "https://dkstatics-public.digikala.com/digikala-products/1335242.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60",
+            "https://dkstatics-public.digikala.com/digikala-products/1335864.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60",
+            "https://dkstatics-public.digikala.com/digikala-products/1336257.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60",
+            "https://dkstatics-public.digikala.com/digikala-products/1336130.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+          ]
+        }
+      ],
+      "home": [
+        {
+          "id": 1,
+          "type": "health",
+          "description": "دستمال کاغذی 100 برگ مینا مدل Blue بسته 10 عددی",
+          "EN_description": "Mina Blue 100 Paper Tissues Pack Of 10",
+          "cost": 50000,
+          "discount": 45,
+          "express": false,
+          "color": "blue",
+          "image": [
+            "https://dkstatics-public.digikala.com/digikala-products/5399532.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80",
+            "https://dkstatics-public.digikala.com/digikala-products/5399543.jpg?x-oss-process=image/resize,h_800/quality,q_80",
+            "https://dkstatics-public.digikala.com/digikala-products/5399545.jpg?x-oss-process=image/resize,h_800/quality,q_80",
+            "https://dkstatics-public.digikala.com/digikala-products/5399550.jpg?x-oss-process=image/resize,h_800/quality,q_80",
+            "https://dkstatics-public.digikala.com/digikala-products/5399548.jpg?x-oss-process=image/resize,h_800/quality,q_80"
+          ]
+        }
+      ]
+    }
+  ]
+}
